@@ -1,3 +1,5 @@
+#!!WARNING!! THIS CODE MAY BE A REAL PAIN TO READ AND WORK WITH :(
+
 class bank_account:
 	def __init__(self, name, acc_num, balance):
 		super(bank_account, self).__init__()
